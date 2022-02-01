@@ -7,23 +7,24 @@ The data contains hundreds of thousands of electronics store purchases broken do
 
 Analysis consists of four main parts:
 
-Part 1 : Understanding the Datasets
+**Part 1** : Understanding the Datasets
 
-Part 2 : Combining the csv files and the dataframes
+**Part 2** : Combining the csv files and the dataframes
 
-Part 3 : Data cleaning
+**Part 3** : Data cleaning
 
-Part 4 : Business Questions
+**Part 4** : Business Questions
+
 
 The business related question are;
 
-What was the best month for sales and how much was earned in that month?
+  *What was the best month for sales and how much was earned in that month?*
 
-Which city had the highest amount of sales?
+  *Which city had the highest amount of sales?*
 
-What time should we display advertisements to maximize likelihood of customer's buying product?
+  *What time should we display advertisements to maximize likelihood of customer's buying product?*
 
-Which products are most often sold together? (find pythonic ways to explore the bundles)
+  *Which products are most often sold together? (find pythonic ways to explore the bundles)*
 
-Which product was sold the most and why?
+  *Which product was sold the most and why?*
 
