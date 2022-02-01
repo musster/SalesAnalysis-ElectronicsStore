@@ -18,10 +18,9 @@ Analysis consists of four main parts:
 
 The business related question are;
 
-* Item
 * What was the best month for sales and how much was earned in that month?
 * Which city had the highest amount of sales?
 * What time should we display advertisements to maximize likelihood of customer's buying product?
-* Which products are most often sold together? (find pythonic ways to explore the bundles)
+* Which products are most often sold together? *(find pythonic ways to explore the bundles)*
 * Which product was sold the most and why?
 
