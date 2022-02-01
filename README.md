@@ -24,3 +24,6 @@ The business related question are;
 * Which products are most often sold together? *(find pythonic ways to explore the bundles)*
 * Which product was sold the most and why?
 
+12 months [sales data](https://github.com/musster/SalesAnalysis-ElectronicsStore/tree/main/SalesData) is available as csv files and you can also make your own analysis on the same data sets.
+
+Credits to KeithGalli for the row sales data and for the ideas.
